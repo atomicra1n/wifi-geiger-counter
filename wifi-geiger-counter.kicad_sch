@@ -6804,7 +6804,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 44.958 251.46 90)
 			(hide yes)
 			(show_name no)
@@ -7123,7 +7123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 235.9152 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -7203,7 +7203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 49.53 274.828 90)
 			(hide yes)
 			(show_name no)
@@ -7365,7 +7365,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 261.62 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -7772,7 +7772,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 184.15 133.858 90)
 			(hide yes)
 			(show_name no)
@@ -7854,7 +7854,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 149.86 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -8069,7 +8069,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 252.73 104.648 90)
 			(hide yes)
 			(show_name no)
@@ -8229,7 +8229,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 34.798 251.46 90)
 			(hide yes)
 			(show_name no)
@@ -8309,7 +8309,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 87.63 274.828 90)
 			(hide yes)
 			(show_name no)
@@ -8468,7 +8468,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:WIFIM-SMD_ESP32-C3-MINI-1"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 386.08 87.3252 0)
 			(hide yes)
 			(show_name no)
@@ -8670,7 +8670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 313.69 136.398 90)
 			(hide yes)
 			(show_name no)
@@ -8752,7 +8752,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 173.99 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -9223,7 +9223,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 41.91 274.828 90)
 			(hide yes)
 			(show_name no)
@@ -9305,7 +9305,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 114.6048 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -9387,7 +9387,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "lcsc:WIFIM-SMD_ESP32-C3-MINI-1"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 380.6952 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -9545,7 +9545,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 373.38 113.538 90)
 			(hide yes)
 			(show_name no)
@@ -9625,7 +9625,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 57.15 274.828 90)
 			(hide yes)
 			(show_name no)
@@ -10134,7 +10134,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 64.77 274.828 90)
 			(hide yes)
 			(show_name no)
@@ -10213,7 +10213,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 160.02 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -10306,7 +10306,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 144.018 148.59 90)
 			(hide yes)
 			(show_name no)
@@ -10386,7 +10386,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 107.95 281.178 90)
 			(hide yes)
 			(show_name no)
@@ -10891,7 +10891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 72.39 274.828 90)
 			(hide yes)
 			(show_name no)
@@ -10973,7 +10973,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 248.6152 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -11210,7 +11210,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 204.47 156.718 90)
 			(hide yes)
 			(show_name no)
@@ -11525,7 +11525,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 95.25 274.828 90)
 			(hide yes)
 			(show_name no)
@@ -12191,7 +12191,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 172.212 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -13042,7 +13042,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 62.23 43.688 90)
 			(hide yes)
 			(show_name no)
@@ -13464,7 +13464,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 210.82 60.198 90)
 			(hide yes)
 			(show_name no)
@@ -13704,7 +13704,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 133.0452 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -13978,7 +13978,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 34.29 274.828 90)
 			(hide yes)
 			(show_name no)
@@ -14374,7 +14374,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 323.85 58.928 90)
 			(hide yes)
 			(show_name no)
@@ -14690,7 +14690,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 80.01 274.828 90)
 			(hide yes)
 			(show_name no)
@@ -14769,7 +14769,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 167.64 37.338 90)
 			(hide yes)
 			(show_name no)
@@ -14930,7 +14930,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 332.74 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -15247,7 +15247,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 214.122 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -15424,7 +15424,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 62.23 58.928 90)
 			(hide yes)
 			(show_name no)
@@ -15616,7 +15616,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 303.53 93.218 90)
 			(hide yes)
 			(show_name no)
@@ -15696,7 +15696,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 373.38 88.138 90)
 			(hide yes)
 			(show_name no)
@@ -15778,7 +15778,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123F"
 			(at 274.32 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -15857,7 +15857,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 167.64 44.958 90)
 			(hide yes)
 			(show_name no)
@@ -15939,7 +15939,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buzzer_Beeper:Buzzer_Murata_PKMCS0909E"
 			(at 151.765 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -16019,7 +16019,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:WIFIM-SMD_ESP32-C3-MINI-1"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 137.16 279.7048 0)
 			(hide yes)
 			(show_name no)
@@ -16529,7 +16529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lcsc:SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 26.67 274.828 90)
 			(hide yes)
 			(show_name no)
@@ -16611,7 +16611,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "lcsc:WIFIM-SMD_ESP32-C3-MINI-1"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 365.4552 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -17171,7 +17171,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 160.02 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -17375,7 +17375,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 138.43 137.668 90)
 			(hide yes)
 			(show_name no)
