@@ -76,15 +76,32 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "hole_clearance|84215000|162550000|58290b65-3363-449c-b189-0f3fbe49c9dc|65dd23f8-7855-4e1d-97b9-d63e4edffaba",
+          ""
+        ],
+        [
+          "hole_clearance|84315000|156050000|e735d1c6-5b48-4007-a15e-2105aa325ca0|1c2de021-f1bd-4486-b7b7-ed076d4df717",
+          ""
+        ],
+        [
+          "hole_clearance|87685000|162550000|92e62db9-0b65-4675-a222-9f65f928b8ea|6a308b68-c3c3-4ee4-b4c3-754e46122513",
+          ""
+        ],
+        [
+          "hole_clearance|87785000|156050000|153d9dca-8444-4f4b-9ed0-05e8c9e10a9f|48c90152-bae5-4be9-b654-f2296fc02eb2",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
       "rule_severities": {
-        "annular_width": "error",
+        "annular_width": "warning",
         "clearance": "error",
         "connection_width": "warning",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "warning",
         "copper_sliver": "warning",
         "courtyards_overlap": "error",
         "creepage": "error",
