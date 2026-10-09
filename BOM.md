@@ -33,7 +33,7 @@
 | [Tact switches](https://lcsc.com/product-detail/C318884.html) | Reset and boot buttons | 2 | $0.10 | $0.20 | [LCSC](https://lcsc.com/product-detail/C318884.html) |
 | [Pin header 1x02](https://www.lcsc.com/product-detail/C124375.html) | Tube connector | 1 | $0.05 | $0.05 | [LCSC](https://www.lcsc.com/product-detail/C124375.html) |
 | **Parts subtotal** | — | — | — | **$30.95** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$30.95** | — |
+| **Tax & shipping** | — | — | — | **$20.00** | — |
+| **Total** | — | — | — | **$50.95** | — |
 
-$34.05 left of the tier's funding.
+$14.05 left of the tier's funding.
