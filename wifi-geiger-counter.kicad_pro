@@ -78,6 +78,86 @@
       ],
       "drc_exclusions": [
         [
+          "annular_width|48929600|122195000|ca55e170-0764-4af7-9fe7-f3a756b4f54a|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "annular_width|48929600|127995000|7aa6ae7a-d60b-4d65-ae53-98168ffc4e46|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "clearance|47019512|122195152|a814e329-3be4-4e15-aba3-c1cac91e4148|ccf770a3-f5ce-4988-9883-5dec5fc0d771",
+          ""
+        ],
+        [
+          "clearance|47019600|123195000|ccf770a3-f5ce-4988-9883-5dec5fc0d771|53460c8e-071a-45ca-b1e3-898d15c31c09",
+          ""
+        ],
+        [
+          "clearance|47019690|127995077|d3821e09-d266-4b52-9737-92b007c96089|7ae21a8a-ef99-4797-911c-9a0f7f65e374",
+          ""
+        ],
+        [
+          "clearance|48319600|126995000|d24bbf7e-8c25-47fe-88e8-c38e2295daf1|7ae21a8a-ef99-4797-911c-9a0f7f65e374",
+          ""
+        ],
+        [
+          "copper_edge_clearance|47019512|122195152|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|a814e329-3be4-4e15-aba3-c1cac91e4148",
+          ""
+        ],
+        [
+          "copper_edge_clearance|47019512|122395128|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|ccf770a3-f5ce-4988-9883-5dec5fc0d771",
+          ""
+        ],
+        [
+          "copper_edge_clearance|47019512|127995077|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|d3821e09-d266-4b52-9737-92b007c96089",
+          ""
+        ],
+        [
+          "copper_edge_clearance|47019600|123195000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|53460c8e-071a-45ca-b1e3-898d15c31c09",
+          ""
+        ],
+        [
+          "copper_edge_clearance|47019600|123695000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|ea1d8070-9620-4fbd-b5d8-92f933c74845",
+          ""
+        ],
+        [
+          "copper_edge_clearance|47019600|124195000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|e9c9a6b5-cd5c-405d-905e-16637b2c3676",
+          ""
+        ],
+        [
+          "copper_edge_clearance|47019600|124695000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|8f3c863f-7a83-4fbc-ad55-73888b48cdce",
+          ""
+        ],
+        [
+          "copper_edge_clearance|47019600|125195000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|cf423112-b49d-44ef-8066-40900885fbfe",
+          ""
+        ],
+        [
+          "copper_edge_clearance|47019600|125695000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|009e4cfb-9fb6-4159-958f-ac4c6078ebc2",
+          ""
+        ],
+        [
+          "copper_edge_clearance|47019600|126195000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|f3599c0d-cbfc-445a-aa93-65afef56144d",
+          ""
+        ],
+        [
+          "copper_edge_clearance|47019600|126695000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|d24bbf7e-8c25-47fe-88e8-c38e2295daf1",
+          ""
+        ],
+        [
+          "copper_edge_clearance|47019665|127194924|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|7ae21a8a-ef99-4797-911c-9a0f7f65e374",
+          ""
+        ],
+        [
+          "copper_edge_clearance|48029600|120765000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|169ec349-e7c4-4032-93f2-d7ae2c65c036",
+          ""
+        ],
+        [
+          "copper_edge_clearance|48029600|129425000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|f0405ff0-4355-42f5-adb7-a78739aa4e03",
+          ""
+        ],
+        [
           "hole_clearance|84215000|162550000|58290b65-3363-449c-b189-0f3fbe49c9dc|65dd23f8-7855-4e1d-97b9-d63e4edffaba",
           ""
         ],
@@ -91,6 +171,14 @@
         ],
         [
           "hole_clearance|87785000|156050000|153d9dca-8444-4f4b-9ed0-05e8c9e10a9f|48c90152-bae5-4be9-b654-f2296fc02eb2",
+          ""
+        ],
+        [
+          "padstack|48929600|122195000|ca55e170-0764-4af7-9fe7-f3a756b4f54a|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "padstack|48929600|127995000|7aa6ae7a-d60b-4d65-ae53-98168ffc4e46|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -171,7 +259,7 @@
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
