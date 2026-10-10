@@ -12,7 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [ESP32-C3-MINI-1-N4](https://www.lcsc.com/product-detail/C2838502.html) | Wi-Fi microcontroller | 1 | $3.06 | $3.06 | [LCSC](https://www.lcsc.com/product-detail/C2838502.html) |
 | [TP4056](https://www.lcsc.com/product-detail/C16581.html) | LiPo battery charger | 1 | $0.19 | $0.19 | [LCSC](https://www.lcsc.com/product-detail/C16581.html) |
 | [AP2112K-3.3TRG1](https://www.lcsc.com/product-detail/C51118.html) | 3.3V voltage regulator | 1 | $0.17 | $0.17 | [LCSC](https://www.lcsc.com/product-detail/C51118.html) |
 | [USBLC6-2SC6](https://www.lcsc.com/product-detail/C7519.html) | USB ESD protection | 1 | $0.18 | $0.18 | [LCSC](https://www.lcsc.com/product-detail/C7519.html) |
@@ -32,8 +31,8 @@
 | [1N4148W + Zener](https://www.lcsc.com/product-detail/C917030.html) | Flyback + pulse protection | 2 | $0.03 | $0.06 | [LCSC](https://www.lcsc.com/product-detail/C917030.html) |
 | [Tact switches](https://lcsc.com/product-detail/C318884.html) | Reset and boot buttons | 2 | $0.10 | $0.20 | [LCSC](https://lcsc.com/product-detail/C318884.html) |
 | [Pin header 1x02](https://www.lcsc.com/product-detail/C124375.html) | Tube connector | 1 | $0.05 | $0.05 | [LCSC](https://www.lcsc.com/product-detail/C124375.html) |
-| **Parts subtotal** | — | — | — | **$30.95** | — |
+| **Parts subtotal** | — | — | — | **$27.89** | — |
 | **Tax & shipping** | — | — | — | **$20.00** | — |
-| **Total** | — | — | — | **$50.95** | — |
+| **Total** | — | — | — | **$47.89** | — |
 
-$14.05 left of the tier's funding.
+$17.11 left of the tier's funding.
