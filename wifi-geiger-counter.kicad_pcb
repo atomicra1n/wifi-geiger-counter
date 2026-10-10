@@ -89,9 +89,8 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_5755f5ff)
+			(layerselection 0x00000000_00000000_55555555_575555ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -122,9 +121,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerbers/")
 		)
 	)
 	(footprint "lcsc:WIFIM-SMD_ESP32-C3-MINI-1"
@@ -216,16 +215,6 @@
 		(path "/96185dea-e8ce-404b-9335-ae34fd90fa53")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "15"
-					"16" "17" "18" "19" "20" "21" "22" "23" "24" "25" "26" "53" "52" "51"
-					"50" "49" "48" "47" "46" "45" "44" "43" "42" "41" "40" "39" "38" "37"
-					"36" "35" "34" "33" "32" "31" "30" "29" "28" "27"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1005,12 +994,6 @@
 		(path "/bc09b4f9-d262-4610-98de-ab592213659c")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1176,12 +1159,6 @@
 		(path "/0cd23fbf-fe9f-4fef-b820-9a2be3175d9a")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1385,12 +1362,6 @@
 		(path "/1da21cba-9e16-436d-ab4f-3b27dcdc49bc")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1567,12 +1538,6 @@
 		(path "/4e8091cb-4e02-40aa-a83b-46cd2c916690")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1833,12 +1798,6 @@
 		(path "/8da730c3-77c3-4350-ab2b-ef2777b5b326")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2104,12 +2063,6 @@
 		(path "/38bb1ba5-67d8-4ec7-a0e7-b108ba220970")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2285,12 +2238,6 @@
 		(path "/2ce6b251-4c75-4e97-a511-bd76abbfba2a")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "5" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2541,12 +2488,6 @@
 		(path "/387e2150-4404-44f8-810d-39a115ad0b95")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2699,12 +2640,6 @@
 		(path "/00af1b72-0947-4db8-a9d3-3be37f27b85c")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2881,12 +2816,6 @@
 		(path "/2359408b-ae43-458b-9d0c-934e497e184f")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3142,12 +3071,6 @@
 		(path "/1f92bb4f-c213-41a0-b7a4-6e081e6daeff")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3464,12 +3387,6 @@
 		(path "/dd45e386-205d-4730-a7de-ff62029ece3e")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3714,12 +3631,6 @@
 		(path "/4fdd4ee0-1097-4f36-9e72-d548497f880a")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3923,12 +3834,6 @@
 		(path "/c7ad36fc-362a-46ae-8204-55d414e32692")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4104,12 +4009,6 @@
 		(path "/7df82018-f1f8-496c-a9b4-ca640d816688")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4375,12 +4274,6 @@
 		(path "/0afdb4e8-52a7-4bdb-8710-3e671856c5da")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4533,12 +4426,6 @@
 		(path "/6dad2350-ce49-491b-a7ae-30956a4f25ff")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4691,12 +4578,6 @@
 		(path "/563b1764-b68b-4750-bfe4-c6cca5a50a86")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4849,12 +4730,6 @@
 		(path "/ed8ca220-6b15-48dd-ac11-b7b634905be6")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5007,12 +4882,6 @@
 		(path "/d4bea4d3-453d-4a30-8602-347d91acddd0")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5191,12 +5060,6 @@
 		(path "/5c781535-4a33-4fa3-ae74-192d2516bc7b")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5573,12 +5436,6 @@
 		(path "/3c305b32-3fb8-4012-87b8-bd32e2cb5d6c")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5754,12 +5611,6 @@
 		(path "/f8227650-4518-42e8-8ee5-584c2480bd10")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "8" "7" "6" "3" "5" "9" "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6067,12 +5918,6 @@
 		(path "/2a0e7e61-5f4c-4f5d-adcd-73575bc312f5")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6217,12 +6062,6 @@
 		(path "/ced4418b-0218-4585-b794-05c39242fbf0")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6515,12 +6354,6 @@
 		(path "/c765544e-cb69-40bb-ac22-333a24e2d5bd")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "5" "2" "6" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6877,12 +6710,6 @@
 		(path "/73bacd89-eed6-4b09-925d-33014f2c6077")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7035,12 +6862,6 @@
 		(path "/f4b7aaf4-e7f1-4791-b96b-ce42cf066043")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7193,12 +7014,6 @@
 		(path "/30cfefbb-7773-402a-b19a-e191f060ff1c")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7434,12 +7249,6 @@
 		(path "/441c3c61-7a40-438a-abb4-4cf94530cd00")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7616,12 +7425,6 @@
 		(path "/c7bedadf-9a0d-4f93-b580-cc59506ee0a6")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7859,12 +7662,6 @@
 		(path "/4f0ba6df-b907-4c98-82f4-16b5b151d2b2")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8008,12 +7805,6 @@
 		(path "/0b5eb289-3902-4cfb-9606-1ec98a0ee4ea")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8317,12 +8108,6 @@
 		(path "/6b84e940-013b-44f1-a76e-a27ef89f7dcb")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8475,12 +8260,6 @@
 		(path "/b72ec39a-498c-499b-b657-957701b72632")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8633,12 +8412,6 @@
 		(path "/ffa5d4f8-e399-446f-bb3b-d2ee898e6e3d")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8782,12 +8555,6 @@
 		(path "/aa79a2ea-a2c4-4832-a08f-4e106a6199d6")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9117,12 +8884,6 @@
 		(path "/8846bff8-695c-4c48-aad9-bf807565dcfc")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9499,12 +9260,6 @@
 		(path "/24b3ab9e-f575-4665-9683-be7054c4c531")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9657,12 +9412,6 @@
 		(path "/c943c780-5869-46a0-80d2-4d3af1d0cf40")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9815,12 +9564,6 @@
 		(path "/cdb2e4ac-95e4-44be-a786-e1ff11b99473")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9973,12 +9716,6 @@
 		(path "/c7502c3d-9e36-4ca0-931f-f6e3a9b85921")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10131,12 +9868,6 @@
 		(path "/a4696946-9db7-40a3-a5e4-dad644b746a6")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10289,12 +10020,6 @@
 		(path "/0a3c85eb-4fd2-4a41-9de7-9c1be579c973")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10470,12 +10195,6 @@
 		(path "/fe541046-a769-42eb-987e-38ea0d698874")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10741,12 +10460,6 @@
 		(path "/29dab8eb-45d8-4d6f-acb3-1bb230f1fca7")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10899,12 +10612,6 @@
 		(path "/803f823a-9464-4330-a222-df339e5497fc")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11057,12 +10764,6 @@
 		(path "/38d0b861-fdd2-45d5-9f16-540629a7afc8")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11238,12 +10939,6 @@
 		(path "/a06782d5-66eb-494e-9561-395339ea5cf3")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11701,12 +11396,6 @@
 		(path "/cfa012de-4f47-4432-896f-178ad9c9c4db")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11859,12 +11548,6 @@
 		(path "/9c652b73-88fe-4b69-ad0c-618b7c1d09a6")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12017,12 +11700,6 @@
 		(path "/2f114cf3-0f0f-43dd-a1de-e9b503d9bf33")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12167,12 +11844,6 @@
 		(path "/bdb5ed89-09eb-4598-adcc-7c355058bb6a")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12455,12 +12126,6 @@
 		(path "/2c7a0eca-3df2-489f-9545-f4a61f55e1d8")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12613,12 +12278,6 @@
 		(path "/914bb91e-66de-453b-a67c-ba3985a796d4")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12794,14 +12453,6 @@
 		(path "/fcb366b2-f037-4251-94a1-2a0a1f02915d")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "A1B12" "A4B9" "B8" "A5" "B7" "A6" "A7" "B6" "A8" "B5" "B4A9" "B1A12"
-					"4" "3" "2" "1"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13249,12 +12900,6 @@
 		(path "/9a7c1029-a2ed-48c3-a7bb-68c7490dbb34")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13430,12 +13075,6 @@
 		(path "/f9bcb285-f739-4515-a6c2-9e7d6495e655")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13609,12 +13248,6 @@
 		(path "/d41c4882-9ee7-45a6-8d5b-acd8df334d14")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13965,12 +13598,6 @@
 		(path "/76551a85-4700-44f0-8f36-01c10c8729f1")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14123,12 +13750,6 @@
 		(path "/508203a2-38a2-4ac1-babb-ed8ddf39d6ab")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14281,12 +13902,6 @@
 		(path "/b40982c2-dc44-4767-ac59-ad71ee20983e")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14452,12 +14067,6 @@
 		(path "/fd5b929a-7aa2-4418-97b9-45f085779344")
 		(sheetname "/")
 		(sheetfile "wifi-geiger-counter.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
