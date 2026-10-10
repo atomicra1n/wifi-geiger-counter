@@ -9,7 +9,6 @@ a DIY Geiger counter PCB which can detect ionizing radiation and log readings ov
 - M4011/SBM-20 Geiger tube with pulse detection
 - Custom HV circuit (around 400V) with a single LiPo cell
 - Wi-Fi data logging
-- Customizable buzzer sounds (RTTTL)
 - USB-C charging
 - ESD and overvoltage protection
 
