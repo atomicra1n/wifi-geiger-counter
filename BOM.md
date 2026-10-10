@@ -12,27 +12,14 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [TP4056](https://www.lcsc.com/product-detail/C16581.html) | LiPo battery charger | 1 | $0.19 | $0.19 | [LCSC](https://www.lcsc.com/product-detail/C16581.html) |
-| [AP2112K-3.3TRG1](https://www.lcsc.com/product-detail/C51118.html) | 3.3V voltage regulator | 1 | $0.17 | $0.17 | [LCSC](https://www.lcsc.com/product-detail/C51118.html) |
-| [USBLC6-2SC6](https://www.lcsc.com/product-detail/C7519.html) | USB ESD protection | 1 | $0.18 | $0.18 | [LCSC](https://www.lcsc.com/product-detail/C7519.html) |
-| [TYPE-C-31-M-12](https://www.lcsc.com/product-detail/C165948.html) | USB-C connector | 1 | $0.17 | $0.17 | [LCSC](https://www.lcsc.com/product-detail/C165948.html) |
-| [S2B-PH-K-S-GW](https://www.lcsc.com/product-detail/C157932.html) | Battery connector | 1 | $0.17 | $0.17 | [LCSC](https://www.lcsc.com/product-detail/C157932.html) |
-| [MMBTA42](https://www.lcsc.com/product-detail/C94389.html) | HV boost transistor | 1 | $0.04 | $0.04 | [LCSC](https://www.lcsc.com/product-detail/C94389.html) |
-| [MLT-8530](https://www.lcsc.com/product-detail/C94599.html) | Buzzer | 1 | $0.20 | $0.20 | [LCSC](https://www.lcsc.com/product-detail/C94599.html) |
-| [MMBT3904](https://www.lcsc.com/product-detail/C242260.html) | Signal transistors | 2 | $0.04 | $0.08 | [LCSC](https://www.lcsc.com/product-detail/C242260.html) |
-| [FNR6045S103KT](https://www.lcsc.com/product-detail/C168108.html) | Boost inductor | 1 | $0.25 | $0.25 | [LCSC](https://www.lcsc.com/product-detail/C168108.html) |
-| [US1M](https://www.lcsc.com/product-detail/C81191.html) | HV rectifier diodes | 3 | $0.05 | $0.15 | [LCSC](https://www.lcsc.com/product-detail/C81191.html) |
-| [SMF5.0A](https://www.lcsc.com/product-detail/C151296.html) | TVS protection diode | 1 | $0.12 | $0.12 | [LCSC](https://www.lcsc.com/product-detail/C151296.html) |
-| [SBM-20](https://www.ebay.com/itm/178369146053) | Geiger-Muller tube | 1 | $25.00 | $25.00 | [eBay](https://www.ebay.com/itm/178369146053) |
-| [Resistors (0805)](https://lcsc.com/product-detail/C17414.html) | Signal and pullup resistors | 20 | $0.01 | $0.20 | [LCSC](https://lcsc.com/product-detail/C17414.html) |
 | [Capacitors (1206 1kV)](https://www.lcsc.com/product-detail/C106858.html) | HV multiplier | 3 | $0.05 | $0.15 | [LCSC](https://www.lcsc.com/product-detail/C106858.html) |
 | [Capacitors (0805 assorted)](https://www.lcsc.com/product-detail/C15850.html) | Decoupling and filtering | 7 | $0.06 | $0.42 | [LCSC](https://www.lcsc.com/product-detail/C15850.html) |
 | [LEDs (0805)](https://lcsc.com/product-detail/C84256.html) | Status indicators | 3 | $0.03 | $0.09 | [LCSC](https://lcsc.com/product-detail/C84256.html) |
 | [1N4148W + Zener](https://www.lcsc.com/product-detail/C917030.html) | Flyback + pulse protection | 2 | $0.03 | $0.06 | [LCSC](https://www.lcsc.com/product-detail/C917030.html) |
 | [Tact switches](https://lcsc.com/product-detail/C318884.html) | Reset and boot buttons | 2 | $0.10 | $0.20 | [LCSC](https://lcsc.com/product-detail/C318884.html) |
 | [Pin header 1x02](https://www.lcsc.com/product-detail/C124375.html) | Tube connector | 1 | $0.05 | $0.05 | [LCSC](https://www.lcsc.com/product-detail/C124375.html) |
-| **Parts subtotal** | — | — | — | **$27.89** | — |
+| **Parts subtotal** | — | — | — | **$0.97** | — |
 | **Tax & shipping** | — | — | — | **$20.00** | — |
-| **Total** | — | — | — | **$47.89** | — |
+| **Total** | — | — | — | **$20.97** | — |
 
-$17.11 left of the tier's funding.
+$44.03 left of the tier's funding.
