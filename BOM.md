@@ -46,7 +46,7 @@
 | [3.7V LiPo battery](https://tipa.eu/en-en/products/rechargeable-battery-lipo-3-7v4200mah-105565-hadex) | Power delivery | 1 | $0.01 | $0.01 | [Myself - Salvaged from FNIRSI GC-01](https://tipa.eu/en-en/products/rechargeable-battery-lipo-3-7v4200mah-105565-hadex) |
 | [2.54-1*3P](https://www.lcsc.com/product-detail/C49257.html) | GM Tube pin header | 20 | $0.03 | $0.60 | [LCSC](https://www.lcsc.com/product-detail/C49257.html) |
 | **Parts subtotal** | — | — | — | **$29.78** | — |
-| **Tax & shipping** | — | — | — | **$20.00** | — |
-| **Total** | — | — | — | **$49.78** | — |
+| **Tax & shipping** | — | — | — | **$25.00** | — |
+| **Total** | — | — | — | **$54.78** | — |
 
-$15.22 left of the tier's funding.
+$10.22 left of the tier's funding.
