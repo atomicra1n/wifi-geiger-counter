@@ -19,8 +19,7 @@ def setup(pwm_pin, fb_pin):
     adc.atten(ADC.ATTN_11DB)
 
 def read_mv():
-    raw = adc.read()
-    return int(raw / 4095 * 3300)
+    return adc.read_uv() // 1000
 
 def get_voltage():
     # multiply by divider ratio to get actual hv
@@ -51,8 +50,8 @@ def update(timer=None):
     
     if duty < 0:
         duty = 0
-    if duty > 1023:
-        duty = 1023
+    if duty > 600:
+        duty = 600
     
     pwm.duty(duty)
 

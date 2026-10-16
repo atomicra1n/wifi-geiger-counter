@@ -5922,6 +5922,16 @@
 	)
 	(wire
 		(pts
+			(xy 173.99 160.02) (xy 173.99 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7686209a-c57d-416c-a806-8bf2d9e17a7a")
+	)
+	(wire
+		(pts
 			(xy 340.36 106.68) (xy 340.36 104.14)
 		)
 		(stroke
@@ -6471,7 +6481,7 @@
 		(uuid "8317c0be-dfbf-4bf3-9ff1-c17d3af19501")
 	)
 	(label "HV"
-		(at 173.99 154.94 0)
+		(at 173.99 152.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6659,6 +6669,16 @@
 			(justify left bottom)
 		)
 		(uuid "c046fbd2-58d7-45e2-bc5e-e61762c3d4be")
+	)
+	(label "TUBE_A"
+		(at 173.99 161.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c4599b50-e1c2-4b67-99bb-003c6e78594a")
 	)
 	(label "EN"
 		(at 308.61 99.06 180)
@@ -7260,7 +7280,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0b5eb289-3902-4cfb-9606-1ec98a0ee4ea")
 		(property "Reference" "SW2"
@@ -8741,7 +8761,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SBM-20"
+		(property "Value" "M4011"
 			(at 176.53 168.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10203,7 +10223,7 @@
 				)
 			)
 		)
-		(property "Value" "GREEN"
+		(property "Value" "YELLOW"
 			(at 158.242 40.894 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10697,84 +10717,6 @@
 			(project "wifi-geiger-counter"
 				(path "/ea347852-16b2-4adf-b0d8-c3ef89e2ab6b"
 					(reference "#PWR09")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 261.62 110.49 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "603c7322-8f7c-4f86-9b2f-31b5ae14bfdf")
-		(property "Reference" "#PWR056"
-			(at 261.62 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 261.62 115.57 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 261.62 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 261.62 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 261.62 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e6c21677-b621-4bcd-8539-47b99198918f")
-		)
-		(instances
-			(project "wifi-geiger-counter"
-				(path "/ea347852-16b2-4adf-b0d8-c3ef89e2ab6b"
-					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -12159,7 +12101,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 173.99 158.75 0)
+		(at 173.99 156.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12170,7 +12112,7 @@
 		(fields_autoplaced yes)
 		(uuid "803f823a-9464-4330-a222-df339e5497fc")
 		(property "Reference" "R23"
-			(at 176.53 157.4799 0)
+			(at 176.53 154.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12181,7 +12123,7 @@
 			)
 		)
 		(property "Value" "4.7M"
-			(at 176.53 160.0199 0)
+			(at 176.53 157.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12192,7 +12134,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 172.212 158.75 90)
+			(at 172.212 156.21 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12203,7 +12145,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 158.75 0)
+			(at 173.99 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12214,7 +12156,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 173.99 158.75 0)
+			(at 173.99 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13454,7 +13396,7 @@
 				)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "2.2k"
 			(at 210.82 56.134 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14114,7 +14056,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "aa79a2ea-a2c4-4832-a08f-4e106a6199d6")
 		(property "Reference" "SW1"
@@ -14733,6 +14675,84 @@
 			(project "wifi-geiger-counter"
 				(path "/ea347852-16b2-4adf-b0d8-c3ef89e2ab6b"
 					(reference "R20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 261.62 110.49 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b975da19-70b1-4146-8b4f-e06cc4248587")
+		(property "Reference" "#PWR056"
+			(at 261.62 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 261.62 115.57 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 261.62 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 261.62 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 261.62 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "20a97d44-c332-49fd-9846-6f1688ba163a")
+		)
+		(instances
+			(project "wifi-geiger-counter"
+				(path "/ea347852-16b2-4adf-b0d8-c3ef89e2ab6b"
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -15767,7 +15787,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SMF5.0A"
+		(property "Value" "SMF5.0CA"
 			(at 276.86 73.6599 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15939,7 +15959,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Buzzer_Beeper:Buzzer_Murata_PKMCS0909E"
+		(property "Footprint" "lcsc:BUZ-SMD_4P-L8.5-W8.5-P8.50-BR"
 			(at 151.765 104.14 90)
 			(hide yes)
 			(show_name no)

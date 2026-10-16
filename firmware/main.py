@@ -9,7 +9,7 @@ import wifi_manager
 print("starting up...")
 
 led = Pin(config.LED_PIN, Pin.OUT)
-led.on()
+led.off()
 
 # setup buzzer
 buzzer.setup(config.BUZZER_PIN)
@@ -29,7 +29,7 @@ tim.init(freq=100, mode=Timer.PERIODIC, callback=hv_control.update)
 
 # wifi
 if wifi_manager.connect(config.WIFI_SSID, config.WIFI_PASS):
-    led.off()
+    led.on()
     wifi_manager.start(geiger, hv_control)
     print("ready")
 else:

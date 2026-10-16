@@ -78,83 +78,11 @@
       ],
       "drc_exclusions": [
         [
-          "annular_width|48929600|122195000|ca55e170-0764-4af7-9fe7-f3a756b4f54a|00000000-0000-0000-0000-000000000000",
+          "annular_width|53310000|122195000|7aa6ae7a-d60b-4d65-ae53-98168ffc4e46|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "annular_width|48929600|127995000|7aa6ae7a-d60b-4d65-ae53-98168ffc4e46|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "clearance|47019600|123195000|ccf770a3-f5ce-4988-9883-5dec5fc0d771|53460c8e-071a-45ca-b1e3-898d15c31c09",
-          ""
-        ],
-        [
-          "clearance|47019690|127995077|d3821e09-d266-4b52-9737-92b007c96089|7ae21a8a-ef99-4797-911c-9a0f7f65e374",
-          ""
-        ],
-        [
-          "clearance|48319484|122395128|ccf770a3-f5ce-4988-9883-5dec5fc0d771|a814e329-3be4-4e15-aba3-c1cac91e4148",
-          ""
-        ],
-        [
-          "clearance|48319600|126995000|d24bbf7e-8c25-47fe-88e8-c38e2295daf1|7ae21a8a-ef99-4797-911c-9a0f7f65e374",
-          ""
-        ],
-        [
-          "copper_edge_clearance|47019512|122195152|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|a814e329-3be4-4e15-aba3-c1cac91e4148",
-          ""
-        ],
-        [
-          "copper_edge_clearance|47019512|122395128|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|ccf770a3-f5ce-4988-9883-5dec5fc0d771",
-          ""
-        ],
-        [
-          "copper_edge_clearance|47019512|127995077|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|d3821e09-d266-4b52-9737-92b007c96089",
-          ""
-        ],
-        [
-          "copper_edge_clearance|47019600|123195000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|53460c8e-071a-45ca-b1e3-898d15c31c09",
-          ""
-        ],
-        [
-          "copper_edge_clearance|47019600|123695000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|ea1d8070-9620-4fbd-b5d8-92f933c74845",
-          ""
-        ],
-        [
-          "copper_edge_clearance|47019600|124195000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|e9c9a6b5-cd5c-405d-905e-16637b2c3676",
-          ""
-        ],
-        [
-          "copper_edge_clearance|47019600|124695000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|8f3c863f-7a83-4fbc-ad55-73888b48cdce",
-          ""
-        ],
-        [
-          "copper_edge_clearance|47019600|125195000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|cf423112-b49d-44ef-8066-40900885fbfe",
-          ""
-        ],
-        [
-          "copper_edge_clearance|47019600|125695000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|009e4cfb-9fb6-4159-958f-ac4c6078ebc2",
-          ""
-        ],
-        [
-          "copper_edge_clearance|47019600|126195000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|f3599c0d-cbfc-445a-aa93-65afef56144d",
-          ""
-        ],
-        [
-          "copper_edge_clearance|47019600|126695000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|d24bbf7e-8c25-47fe-88e8-c38e2295daf1",
-          ""
-        ],
-        [
-          "copper_edge_clearance|47019665|127194924|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|7ae21a8a-ef99-4797-911c-9a0f7f65e374",
-          ""
-        ],
-        [
-          "copper_edge_clearance|48029600|120765000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|169ec349-e7c4-4032-93f2-d7ae2c65c036",
-          ""
-        ],
-        [
-          "copper_edge_clearance|48029600|129425000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|f0405ff0-4355-42f5-adb7-a78739aa4e03",
+          "annular_width|53310000|127995000|ca55e170-0764-4af7-9fe7-f3a756b4f54a|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
@@ -174,11 +102,27 @@
           ""
         ],
         [
-          "padstack|48929600|122195000|ca55e170-0764-4af7-9fe7-f3a756b4f54a|00000000-0000-0000-0000-000000000000",
+          "padstack|53310000|122195000|7aa6ae7a-d60b-4d65-ae53-98168ffc4e46|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "padstack|48929600|127995000|7aa6ae7a-d60b-4d65-ae53-98168ffc4e46|00000000-0000-0000-0000-000000000000",
+          "padstack|53310000|127995000|ca55e170-0764-4af7-9fe7-f3a756b4f54a|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_edge_clearance|47000000|167605579|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|20618da0-f55c-4be9-a46e-0588eba99fa5",
+          ""
+        ],
+        [
+          "silk_edge_clearance|47010000|120625000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|03d58e3b-1d60-42ad-90ac-6265ea80fcee",
+          ""
+        ],
+        [
+          "silk_edge_clearance|47010000|129565000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|44e65ce2-54eb-4090-8846-8c997722e88b",
+          ""
+        ],
+        [
+          "silk_edge_clearance|47010000|129565000|8d1e6ea3-c80f-47f0-baf6-e1b9a4ec584a|e3b11227-6090-463f-9946-b06f873c0bfd",
           ""
         ],
         [
@@ -214,7 +158,7 @@
           ""
         ],
         [
-          "silk_over_copper|53349405|129804819|288b8f34-635d-41fd-9ea8-c311e293fad1|7869277a-bdbe-495f-8390-402c2c0d7e7b",
+          "silk_over_copper|54587500|129804819|288b8f34-635d-41fd-9ea8-c311e293fad1|169ec349-e7c4-4032-93f2-d7ae2c65c036",
           ""
         ],
         [
@@ -742,8 +686,17 @@
         "wire_width": 6
       },
       {
-        "clearance": 6.0,
+        "clearance": 1.0,
         "name": "HV",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.5,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.15,
+        "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -751,8 +704,8 @@
         "tuning_profile": ""
       },
       {
-        "clearance": 0.2,
-        "name": "Power",
+        "clearance": 1.0,
+        "name": "SW",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -768,31 +721,27 @@
     "netclass_patterns": [
       {
         "netclass": "HV",
-        "pattern": "HV"
+        "pattern": "/HV"
       },
       {
         "netclass": "HV",
-        "pattern": "HV1"
+        "pattern": "/HV1"
       },
       {
         "netclass": "HV",
-        "pattern": "HV_X"
+        "pattern": "/HV_X"
       },
       {
-        "netclass": "HV",
-        "pattern": "SW"
-      },
-      {
-        "netclass": "HV",
-        "pattern": "HV_FB"
+        "netclass": "SW",
+        "pattern": "/SW"
       },
       {
         "netclass": "Power",
-        "pattern": "VBAT"
+        "pattern": "/VBAT"
       },
       {
         "netclass": "Power",
-        "pattern": "VBUS"
+        "pattern": "/VBUS"
       },
       {
         "netclass": "Power",
@@ -801,6 +750,10 @@
       {
         "netclass": "Power",
         "pattern": "GND"
+      },
+      {
+        "netclass": "HV",
+        "pattern": "/TUBE_A"
       }
     ]
   },

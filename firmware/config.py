@@ -10,7 +10,7 @@ LED_PIN = 2
 HV_TARGET = 880
 
 # m4011 tube conversion factor
-CPM_TO_USVH = 0.0057
+CPM_TO_USVH = 0.0066
 
 WIFI_SSID = ""
 WIFI_PASS = ""
