@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-11T12:42:33.246Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvjsap500od01pymkzg6tec). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A Geiger counter that logs current radiation levels over Wi-Fi. Uses a SBM-20 Geiger tube, ESP32-C3 and a self-designed high voltage supply. Powered over USB-C + a battery.
 
