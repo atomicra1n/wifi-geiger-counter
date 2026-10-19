@@ -6,7 +6,7 @@ A DIY Geiger counter PCB which can detect ionizing radiation and log readings ov
 
 ![Schematic](images/schematic.svg)
 
-![PCB layout](images/pcb-layout.png)
+![PCB layout](images/pcb.png)
 
 ## Features
 
