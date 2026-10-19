@@ -4,6 +4,10 @@ A DIY Geiger counter PCB which can detect ionizing radiation and log readings ov
 
 <img width="2767" height="1867" alt="render" src="https://github.com/user-attachments/assets/c3b0554b-56fe-4ac5-b463-0f35b12d34ef" />
 
+![Schematic](images/schematic.svg)
+
+![PCB layout](images/pcb-layout.png)
+
 ## Features
 
 - M4011/SBM-20 Geiger tube with pulse detection (tuned for M4011)
