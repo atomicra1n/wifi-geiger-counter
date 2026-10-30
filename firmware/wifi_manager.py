@@ -45,6 +45,7 @@ def check():
                 'cpm': geiger_mod.get_cpm(),
                 'usvh': round(geiger_mod.get_usvh(), 4),
                 'total': geiger_mod.pulse_count,
+                'rssi': wlan.status('rssi'),
                 'hv': round(hv_mod.get_voltage(), 0)
             }
             cl.send('HTTP/1.1 200 OK\r\nContent-Type: application/json\r\n\r\n')
