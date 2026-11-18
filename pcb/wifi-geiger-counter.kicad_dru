@@ -5,3 +5,6 @@
 (rule "SW pour clearance"
   (constraint clearance (min 1.5mm))
   (condition "A.NetClass == 'SW' && B.Type == 'Zone'"))
+(rule "Q1 pin pitch"
+  (constraint clearance (min 1mm))
+  (condition "A.memberOfFootprint('Q1') && B.memberOfFootprint('Q1')"))
