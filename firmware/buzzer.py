@@ -8,12 +8,12 @@ def setup(pin):
     buz_pin = pin
 
 def click():
-    p = PWM(Pin(buz_pin), freq=2700, duty=512)
+    p = PWM(Pin(buz_pin), freq=2700, duty_u16=32768)
     time.sleep_ms(1)
     p.deinit()
 
 def beep(freq=2700, ms=100):
-    p = PWM(Pin(buz_pin), freq=freq, duty=512)
+    p = PWM(Pin(buz_pin), freq=freq, duty_u16=32768)
     time.sleep_ms(ms)
     p.deinit()
 

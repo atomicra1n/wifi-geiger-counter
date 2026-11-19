@@ -8,8 +8,9 @@ import wifi_manager
 
 print("starting up...")
 
+# led is active low
 led = Pin(config.LED_PIN, Pin.OUT)
-led.off()
+led.on()
 
 # setup buzzer
 buzzer.setup(config.BUZZER_PIN)
@@ -24,12 +25,12 @@ hv_control.setup(config.HV_PWM_PIN, config.HV_FB_PIN)
 hv_control.start()
 
 # run pid at 100hz
-tim = Timer(0)
+tim = Timer()
 tim.init(freq=100, mode=Timer.PERIODIC, callback=hv_control.update)
 
 # wifi
 if wifi_manager.connect(config.WIFI_SSID, config.WIFI_PASS):
-    led.on()
+    led.off()
     wifi_manager.start(geiger, hv_control)
     print("ready")
 else:

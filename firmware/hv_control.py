@@ -14,16 +14,15 @@ last_err = 0
 
 def setup(pwm_pin, fb_pin):
     global pwm, adc
-    pwm = PWM(Pin(pwm_pin), freq=20000, duty=0)
+    pwm = PWM(Pin(pwm_pin), freq=20000, duty_u16=0)
     adc = ADC(Pin(fb_pin))
-    adc.atten(ADC.ATTN_11DB)
 
 def read_mv():
-    return adc.read_uv() // 1000
+    return adc.read_u16() * 3300 // 65535
 
 def get_voltage():
     # multiply by divider ratio to get actual hv
-    return read_mv() * 455 / 1000
+    return read_mv() * 183 / 1000
 
 def update(timer=None):
     global duty, integral, last_err
@@ -53,7 +52,7 @@ def update(timer=None):
     if duty > 600:
         duty = 600
     
-    pwm.duty(duty)
+    pwm.duty_u16(duty * 64)
 
 def start():
     global running, integral, duty
@@ -65,4 +64,4 @@ def stop():
     global running, duty
     running = False
     duty = 0
-    pwm.duty(0)
+    pwm.duty_u16(0)

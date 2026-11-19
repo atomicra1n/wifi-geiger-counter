@@ -1,13 +1,13 @@
 # pin assignments
-HV_PWM_PIN = 4
-HV_FB_PIN = 0 
-PULSE_PIN = 1
-BUZZER_PIN = 5
-LED_PIN = 2
+HV_PWM_PIN = 22
+HV_FB_PIN = 26 
+PULSE_PIN = 21
+BUZZER_PIN = 20
+LED_PIN = 19
 
-# the feedback divider is 100M/220k so ratio is like 454.5
-# 400v / 454.5 = 0.88v = 880mv on the adc
-HV_TARGET = 880
+# the feedback divider is 40M/220k so ratio is like 182.8
+# 400v / 182.8 = 2.19v = 2190mv on the adc
+HV_TARGET = 2190
 
 # m4011 tube conversion factor
 CPM_TO_USVH = 0.0066
